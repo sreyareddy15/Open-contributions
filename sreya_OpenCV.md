@@ -6,7 +6,7 @@
    3. Image Processing
    4. and many more
 * I have personally used it in Image Processing area and also for face,eyes recognition
-* Currently working on using openCV for building attendence system and a sign detection system for deaf and dump people which comes under gesture recognition part
+* Currently working on using openCV for building attendence system and a sign detection system for deaf and dumb people which comes under gesture recognition part
 * Computer vision is one of the domain which I want to explore more and OpenCV fullfilly suppose my purpose of exploring CV domain
 * It has many features like : ( these are the things I have worked with )
    1. reading,displaying,writing
